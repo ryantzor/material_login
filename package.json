@@ -15,5 +15,8 @@
     "url": "https://github.com/ryantzor/material_login/issues"
   },
   "homepage": "https://github.com/ryantzor/material_login#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "material-ui": "^0.18.7"
+  }
 }
